@@ -16,4 +16,3 @@ mediafinal = calculomedia >= mediaescola ?  'Aprovado' : 'Reprovado';
 console.log('A média do aluno foi:', (calculomedia));
 
 console.log('O Aluno foi:', (mediafinal));
-
